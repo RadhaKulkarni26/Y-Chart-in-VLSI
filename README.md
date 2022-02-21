@@ -13,6 +13,7 @@
 - **Y Chart** or **Gajski-Kuhn Chart** is simply a pictorial representation of these three Domains in VLSI for better understanding the complete Design Flow.
 
 - Below Diagram shows Y-Chart or Gajski-Kuhn Chart.
+![Y CHART](https://user-images.githubusercontent.com/70748543/154993092-e9e50de4-d364-431b-a68c-122f53a4fe74.jpeg)
 
 - When we start designing the VLSI circuit we have certain specifications and based on which we make certain **Algorithms** in Behavioural Domain.
 
